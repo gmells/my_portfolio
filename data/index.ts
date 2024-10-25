@@ -72,7 +72,7 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Trnc-Home-Spotter-System",
+      title: "Trnc Home Spotter System",
       des: "This is a Real estate web apllication designed to ease the property search process for users. It highlights the effective use of MERN stack, still working on private chat with the landlord.",
       img: "/t1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
@@ -88,7 +88,7 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Weather_App",
+      title: "Weather App",
       des: "A simple Weather Application made into a Progressive Web App(PWA) using React with service workers.",
       img: "/t3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
@@ -96,7 +96,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "3D_Apple_Website",
+      title: "3D Apple Website",
       des: "A 3D recreation of Apple's website using three.js and gsap",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
