@@ -74,32 +74,32 @@ export const navItems = [
       id: 1,
       title: "Trnc Home Spotter System",
       des: "This is a Real estate web apllication designed to ease the property search process for users. It highlights the effective use of MERN stack, still working on private chat with the landlord.",
-      img: "/t1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      img: "/t1.png",
+      iconLists: ["/mongoDB.svg", "/express.jpeg", "/react.svg", "/node.svg", "/firebase.svg", "/insomnia.svg", "/vite.svg", "/tailwind.svg"],
       link: "https://github.com/gmells/trnc-home-spotter-system",
     },
     {
       id: 2,
       title: "Brainwave",
       des: "Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience.",
-      img: "/t2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      img: "/t2.png",
+      iconLists: ["/react.svg","/vite.svg", "/tailwind.svg"],
       link: "https://github.com/gmells/Brainwave",
     },
     {
       id: 3,
       title: "Weather App",
       des: "A simple Weather Application made into a Progressive Web App(PWA) using React with service workers.",
-      img: "/t3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      img: "/t3.png",
+      iconLists: ["/react.svg", "/serviceWorkers.png", "/lighthouse.svg", "/pwa.svg"],
       link: "https://github.com/gmells/Weather_App",
     },
     {
       id: 4,
       title: "3D Apple Website",
       des: "A 3D recreation of Apple's website using three.js and gsap",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      img: "/t4.png",
+      iconLists: ["/react.svg", "/three.png", "/fiber.png", "/drei.jpg", "/gsap.svg", "/vite.svg", "/tailwind.svg"],
       link: "https://github.com/gmells/3D_Apple_Website",
     },
   ];
@@ -107,33 +107,33 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      name: "",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
+      name: "James Todd",
+      title: "MD of Murab limited",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
+      name: "James Todd",
+      title: "MD of Murab limited",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
+      name: "James Todd",
+      title: "MD of Murab limited",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
+      name: "James Todd",
+      title: "MD of Murab limited",
     },
   ];
   
