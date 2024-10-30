@@ -110,7 +110,7 @@ export const InfiniteMovingCards = ({
                       src="/profile.svg"
                       alt="profile"
                       width={72}
-                      height={72}
+                      height={69}
                     />
                   </div>
                   <div className="flex flex-col gap-1">
