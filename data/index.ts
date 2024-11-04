@@ -76,7 +76,7 @@ export const navItems = [
       des: "This is a Real estate web apllication designed to ease the property search process for users. It highlights the effective use of MERN stack, still working on private chat with the landlord.",
       img: "/t1.png",
       iconLists: ["/mongoDB.svg", "/express.jpeg", "/react.svg", "/node.svg", "/firebase.svg", "/insomnia.svg", "/vite.svg", "/tailwind.svg"],
-      link: "https://github.com/gmells/trnc-home-spotter-system",
+      link: "https://trnc-home-spotter-system.onrender.com/",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience.",
       img: "/t2.png",
       iconLists: ["/react.svg","/vite.svg", "/tailwind.svg"],
-      link: "https://github.com/gmells/Brainwave",
+      link: "https://brainwave-three-lemon.vercel.app/",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "A simple Weather Application made into a Progressive Web App(PWA) using React with service workers.",
       img: "/t3.png",
       iconLists: ["/react.svg", "/serviceWorkers.png", "/lighthouse.svg", "/pwa.svg"],
-      link: "https://github.com/gmells/Weather_App",
+      link: "https://weather-app-7pzb.vercel.app/",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "A 3D recreation of Apple's website using three.js and gsap",
       img: "/t4.png",
       iconLists: ["/react.svg", "/three.png", "/fiber.png", "/drei.jpg", "/gsap.svg", "/vite.svg", "/tailwind.svg"],
-      link: "https://github.com/gmells/3D_Apple_Website",
+      link: "https://3-d-apple-website-sigma.vercel.app/",
     },
   ];
   
