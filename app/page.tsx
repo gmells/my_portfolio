@@ -9,7 +9,6 @@ import Hero from "@/components/Hero";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import RecentProjects from "@/components/RecentProjects";
 import { navItems } from "@/data";
-import { FaHome } from "react-icons/fa";
 
 export default function Home() {
   const [isClient, setIsClient] = useState(false);
