@@ -1,5 +1,5 @@
 import { FaLocationArrow } from "react-icons/fa";
-import MagicButton from "./ui/MagicButton";
+import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 
@@ -41,7 +41,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Victor, a Web Developer based in the United Kingdom.
+            Hi, I&apos;m Victor, a Software Developer based in the United
+            Kingdom.
           </p>
 
           <a href="#about">
