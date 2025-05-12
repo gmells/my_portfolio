@@ -25,7 +25,7 @@ const Footer = () => {
         </a>
       </div>
 
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
+      <div className="flex mt-16 md:flex-row flex-col justify-between items-center gap-3">
         <p className="md:text-base text-sm md:font-normal font-light ">
           Copyright &copy; {new Date().getFullYear()} Victor
         </p>
