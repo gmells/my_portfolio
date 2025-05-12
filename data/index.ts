@@ -72,11 +72,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Trnc Home Spotter System",
-      des: "This is a Real estate web apllication designed to ease the property search process for users. It highlights the effective use of MERN stack, still working on private chat with the landlord.",
-      img: "/t1.png",
-      iconLists: ["/mongoDB.svg", "/express.jpeg", "/react.svg", "/node.svg", "/firebase.svg", "/insomnia.svg", "/vite.svg", "/tailwind.svg"],
-      link: "https://trnc-home-spotter-system.onrender.com/",
+      title: "Mellsbank",
+      des: "Horizon is a real-time, multi-bank digital wallet for seamless transfers and smart money management.",
+      img: "/bank.jpg",
+      iconLists: ["/app.svg", "/chartjs.png", "/dwolla.svg", "/nextjs.svg", "/plaid.jpeg", "/react-hook-form-logo.svg", "/shadcn.png", "/tailwind.svg", "/typescript.svg", "/zod.svg"],
+      link: "https://mellsbank.vercel.app//",
     },
     {
       id: 2,
@@ -107,33 +107,33 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
+      name: "Wells Layn",
+      title: "Director of Vimells",
     },
     {
       quote:
         "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
       name: "James Todd",
-      title: "MD of Murab limited",
+      title: "MD of Bower's firm",
     },
     {
       quote:
         "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
       name: "James Todd",
-      title: "MD of Murab limited",
+      title: "Project Manger",
     },
     {
       quote:
         "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
       name: "James Todd",
-      title: "MD of Murab limited",
+      title: "Project Manger",
     },
     {
       quote:
         "Collaborating with Victor was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Victor's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Victor is the ideal partner.",
       name: "James Todd",
-      title: "MD of Murab limited",
+      title: "Project Manger",
     },
   ];
   
@@ -174,7 +174,7 @@ export const navItems = [
     {
       id: 1,
       title: "Production Intern - Cranswick",
-      desc: "Assisted in the maintenace of production machines and development a web-based platform using React.js",
+      desc: "Assisted in the maintenace of and development of web-based applications and gained new skills",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
@@ -205,13 +205,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/gmells",
     },
     {
       id: 2,
       img: "/twit.svg",
+      link: "",
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/victoradedayo1"
     },
   ];
